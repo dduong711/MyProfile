@@ -1,6 +1,12 @@
-# Python Developer
+# <img src=".assets/image/python.png" width="24px"> Python Developer
 
-:deciduous_tree:
+<a href="leetcode.com/duongg711" target="_blank">
+    <img src=".assets/image/leetcode.png" width="32px">
+</a>
+
+<a href="linkedin.com/in/duongg711" target="_blank">
+    <img src=".assets/image/linkedin.png" width="32px">
+</a>
 
 ## About Me
 
