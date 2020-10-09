@@ -1,10 +1,10 @@
 # <img src=".assets/image/python.png" width="24px"> Python Developer
 
-<a href="leetcode.com/duongg711" target="_blank">
+<a href="https://leetcode.com/duongg711" target="_blank" style="text-decoration:none;">
     <img src=".assets/image/leetcode.png" width="32px">
 </a>
 
-<a href="linkedin.com/in/duongg711" target="_blank">
+<a href="https://www.linkedin.com/in/duongg711" target="_blank" style="text-decoration:none;">
     <img src=".assets/image/linkedin.png" width="32px">
 </a>
 
