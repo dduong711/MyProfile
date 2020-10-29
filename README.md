@@ -1,3 +1,3 @@
-# <img src=".assets/image/python.png" width="24px"> Python Developer
+# <img src=".assets/image/python.png" width="24px"> Python Programmer
 
 ### Hello there
